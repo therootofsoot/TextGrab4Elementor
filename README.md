@@ -1,4 +1,4 @@
-Bienvenue sur le dépôt GitHub du Text Grabber pour Elementor, un outil puissant conçu pour automatiser l'extraction et la conversion de texte à partir de pages web en templates Elementor prêts à l'emploi.
+Un outil puissant conçu pour automatiser l'extraction et la conversion de texte à partir de pages web en templates Elementor prêts à l'emploi.
 
 Fonctionnalités principales :
 Saisie de l'URL de la page web : Au lancement de l'application, vous êtes invité à entrer l'URL de la page dont vous souhaitez extraire le texte.
